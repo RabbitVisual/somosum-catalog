@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-28T17:57:00.218Z",
+  "generatedAt": "2026-07-28T18:04:05.239Z",
   "hostVersion": "8.7.8",
   "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.8",
   "remoteCatalogUrl": "https://raw.githubusercontent.com/RabbitVisual/somosum-catalog/main/catalog/plugins/manifest.json",
@@ -52,7 +52,7 @@
       "packVersion": 1,
       "bytes": 4498,
       "sha256": "87d456de3901116022ebb2d89a1ebc6b519972d11d9c56fd4da2d3b02a062c3d",
-      "remotePath": "plugins/culto-essencial.zip",
+      "remotePath": "culto-essencial.zip",
       "defaultEnabled": true
     },
     {
@@ -99,7 +99,7 @@
       "packVersion": 1,
       "bytes": 7644,
       "sha256": "9c19a2cdb4c55def6633e9da39d87b56f4539d9e56045fc1be5a8f5a71e5a9ff",
-      "remotePath": "plugins/culto-oferta-pix.zip",
+      "remotePath": "culto-oferta-pix.zip",
       "defaultEnabled": true
     },
     {
@@ -143,7 +143,7 @@
       "packVersion": 1,
       "bytes": 2802,
       "sha256": "b24018e50be0d577e0f830c2e5ca308843f34384f5f0905d3fae1d5ee4d24296",
-      "remotePath": "plugins/culto-momentos.zip",
+      "remotePath": "culto-momentos.zip",
       "defaultEnabled": true
     },
     {
@@ -188,7 +188,7 @@
       "packVersion": 1,
       "bytes": 11248,
       "sha256": "2be752e7ea8013ad10cd942f1e92cdb162120b8c8acac4b307ac3df57d9a64a5",
-      "remotePath": "plugins/culto-diario.zip",
+      "remotePath": "culto-diario.zip",
       "defaultEnabled": true
     },
     {
@@ -234,7 +234,7 @@
       "packVersion": 1,
       "bytes": 2877,
       "sha256": "029feffee6f3d9ea03aceb9c1907ff370767cff1b367a9826fc1bee35b57f9b2",
-      "remotePath": "plugins/culto-avisos-rodape.zip",
+      "remotePath": "culto-avisos-rodape.zip",
       "defaultEnabled": true
     },
     {
@@ -280,7 +280,7 @@
       "packVersion": 1,
       "bytes": 2491,
       "sha256": "c4dc1b3a699f8dbd88a751b632e45fce3d787592a05454fd2937471077be60ac",
-      "remotePath": "plugins/culto-timer-sermao.zip",
+      "remotePath": "culto-timer-sermao.zip",
       "defaultEnabled": true
     },
     {
@@ -326,7 +326,7 @@
       "packVersion": 1,
       "bytes": 2730,
       "sha256": "18fb6ed0044a6c85ff1faa9e0a318a50e8aa1f6a27ca265be6001be5d6da1480",
-      "remotePath": "plugins/culto-versiculo-destaque.zip",
+      "remotePath": "culto-versiculo-destaque.zip",
       "defaultEnabled": true
     },
     {
@@ -369,7 +369,7 @@
       "packVersion": 1,
       "bytes": 2743,
       "sha256": "24c895885c7a8828c9d9eb129b54d1e9af071630fb201190b2dd34ab3a7c7315",
-      "remotePath": "plugins/culto-alerta-equipe.zip",
+      "remotePath": "culto-alerta-equipe.zip",
       "defaultEnabled": true
     }
   ]
