@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-28T19:10:48.165Z",
+  "generatedAt": "2026-07-28T19:14:55.245Z",
   "hostVersion": "8.7.8",
   "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.8",
-  "remoteCatalogUrl": "https://raw.githubusercontent.com/RabbitVisual/somosum-catalog/main/catalog/plugins/manifest.json",
+  "remoteCatalogUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.8/plugins-manifest.json",
   "plugins": [
     {
       "id": "culto-essencial",
@@ -50,8 +50,8 @@
       "file": "culto-essencial.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 4334,
-      "sha256": "9134d5aba6b4a9c5c286dbaa7ce39ecab9bb75190ec35fedea9c7be9d6b02c9d",
+      "bytes": 4290,
+      "sha256": "6d96c37c79dc458a88104f4546236ac2f7ba8ecbdd0ad6405e3269cd2c840629",
       "remotePath": "culto-essencial.zip",
       "defaultEnabled": true
     },
@@ -97,8 +97,8 @@
       "file": "culto-oferta-pix.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 7278,
-      "sha256": "2b5921f6a177916c8e73ac090db7b303915ceba24f9c64048102dc3858353d33",
+      "bytes": 7272,
+      "sha256": "c79c1216b3b19def2c6458f9391ba0af14ca3a5df5738dfe44d8e8cb913890d3",
       "remotePath": "culto-oferta-pix.zip",
       "defaultEnabled": true
     },
@@ -141,8 +141,8 @@
       "file": "culto-momentos.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 2802,
-      "sha256": "b24018e50be0d577e0f830c2e5ca308843f34384f5f0905d3fae1d5ee4d24296",
+      "bytes": 2788,
+      "sha256": "26d5d2ce499db05d2036ba9693b78164dd0792f692ed341ff3a537b7d4f52a27",
       "remotePath": "culto-momentos.zip",
       "defaultEnabled": true
     },
@@ -186,8 +186,8 @@
       "file": "culto-diario.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 3338,
-      "sha256": "9a9ddcad8b368e777612b3a777e0144ffc58792a969bf0d6532e4fcacf5bc044",
+      "bytes": 3350,
+      "sha256": "b9aa76ff62b17bc2879b70fb484b23a11c48436ce41756acb4cae52b3ba8f431",
       "remotePath": "culto-diario.zip",
       "defaultEnabled": true
     },
@@ -232,8 +232,8 @@
       "file": "culto-avisos-rodape.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 2877,
-      "sha256": "029feffee6f3d9ea03aceb9c1907ff370767cff1b367a9826fc1bee35b57f9b2",
+      "bytes": 2870,
+      "sha256": "6c3d4568a7bfee27f413169a3b4d8647729d02c41bc5f83d3742bd3b36657f1d",
       "remotePath": "culto-avisos-rodape.zip",
       "defaultEnabled": true
     },
@@ -278,8 +278,8 @@
       "file": "culto-timer-sermao.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 2358,
-      "sha256": "e46d63de15dc8326c9bff80e203db90faf15c00bc361d4d864c1109404733b19",
+      "bytes": 2357,
+      "sha256": "e4fa71e641285ebd5d42dd3e1b1bd7e07c76aa063af9acc408dca70221c516ff",
       "remotePath": "culto-timer-sermao.zip",
       "defaultEnabled": true
     },
@@ -324,8 +324,8 @@
       "file": "culto-versiculo-destaque.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 2730,
-      "sha256": "18fb6ed0044a6c85ff1faa9e0a318a50e8aa1f6a27ca265be6001be5d6da1480",
+      "bytes": 2717,
+      "sha256": "9431f45848ab06a0247570a0dc555f03d66111202120ccb3de97cea33e1887bd",
       "remotePath": "culto-versiculo-destaque.zip",
       "defaultEnabled": true
     },
@@ -367,8 +367,8 @@
       "file": "culto-alerta-equipe.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 2743,
-      "sha256": "24c895885c7a8828c9d9eb129b54d1e9af071630fb201190b2dd34ab3a7c7315",
+      "bytes": 2731,
+      "sha256": "7152212db46653377baad16fc07ccd93d1582ce67d06e058cf3c54ae70fa84b5",
       "remotePath": "culto-alerta-equipe.zip",
       "defaultEnabled": true
     }
