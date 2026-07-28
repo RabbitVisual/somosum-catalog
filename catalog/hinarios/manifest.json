@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-28T18:04:10.429Z",
+  "generatedAt": "2026-07-28T18:29:19.676Z",
   "totalSongs": 2743,
   "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.8",
   "remoteCatalogUrl": "https://raw.githubusercontent.com/RabbitVisual/somosum-catalog/main/catalog/hinarios/manifest.json",
@@ -14,10 +14,10 @@
       "format": "zip",
       "altFile": "",
       "altFormat": "",
-      "sha256": "efcb173779ae32d94441d8560e112716e904e8a5c3c66839f44b00aceb71829e",
+      "sha256": "7df63d524953ef1c5448457744c574bc20163206e8774ef2fed2401b414b2991",
       "version": 1,
       "count": 584,
-      "bytes": 117749,
+      "bytes": 117750,
       "remotePath": "CC.zip"
     },
     {
@@ -29,7 +29,7 @@
       "format": "zip",
       "altFile": "",
       "altFormat": "",
-      "sha256": "82931b175bda4fc1abb93c3d9ce97ce20aef43ab9f48d25f7c7098879066dd46",
+      "sha256": "6d6b5f5a2b9a0328a06b42cbeabeafc65c29e402d573d26ca149261dfa871f11",
       "version": 1,
       "count": 640,
       "bytes": 171976,
@@ -44,7 +44,7 @@
       "format": "zip",
       "altFile": "",
       "altFormat": "",
-      "sha256": "9fee25427f7dbe968fc85ac8a43dfb12630abfd89f82a1d45f49573e2599d33f",
+      "sha256": "32f6c7378a924940c832fa1f13646b14f242410ac67f2ec65b864891149675b4",
       "version": 1,
       "count": 500,
       "bytes": 130899,
@@ -59,7 +59,7 @@
       "format": "zip",
       "altFile": "",
       "altFormat": "",
-      "sha256": "ad622e23fee28c9f55ad01d72e8ef5468ad40298d61b0832babd9b0a4e404094",
+      "sha256": "70471974500814da4d31a165e2aece11b7fb932253760b03defac39bde8deeb2",
       "version": 1,
       "count": 406,
       "bytes": 104255,
@@ -74,10 +74,10 @@
       "format": "zip",
       "altFile": "",
       "altFormat": "",
-      "sha256": "dedc72e1d3d30d97fe2a47639e838b2ac12f53ac10c5dd41a886994202f04ba8",
+      "sha256": "d8328b7998beeff4e7b96182abc3aecc79b84deaee5b7dbce677cede89d398b7",
       "version": 1,
       "count": 613,
-      "bytes": 141552,
+      "bytes": 141551,
       "remotePath": "HCC.zip"
     }
   ]
