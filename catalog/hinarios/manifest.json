@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-28T19:14:56.152Z",
+  "generatedAt": "2026-07-28T19:15:33.595Z",
   "totalSongs": 2743,
   "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.8",
   "remoteCatalogUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.8/hinarios-manifest.json",
@@ -14,10 +14,10 @@
       "format": "zip",
       "altFile": "",
       "altFormat": "",
-      "sha256": "3cb1e9d31155135b7b28d8bf0451c13df6a1bfa0a41c4f658614d561ca3a0533",
+      "sha256": "09f3a2b1865260bbdef786231bc88036b23f7586a418b8546841ce335d917716",
       "version": 1,
       "count": 584,
-      "bytes": 116952,
+      "bytes": 116919,
       "remotePath": "CC.zip"
     },
     {
@@ -29,10 +29,10 @@
       "format": "zip",
       "altFile": "",
       "altFormat": "",
-      "sha256": "a7c5b0080b25f871ae8c7843c2dc1af4c0c6c17fe74c88e82d4739d2f4a07510",
+      "sha256": "43b3c0edd4f00ec83d1ce1d64c9252b4bb531ecd5bd6572648f82382bb934ae5",
       "version": 1,
       "count": 640,
-      "bytes": 171096,
+      "bytes": 171060,
       "remotePath": "HC.zip"
     },
     {
@@ -44,10 +44,10 @@
       "format": "zip",
       "altFile": "",
       "altFormat": "",
-      "sha256": "2552bf6679e5a1294a505469ec976894de2f4c9b8f630aaa89a852dddc918d68",
+      "sha256": "0c3ca53ec5607b2b7c6a7259aae211c746135065a0cae436b706901d6ef19fc2",
       "version": 1,
       "count": 500,
-      "bytes": 129967,
+      "bytes": 129928,
       "remotePath": "HE.zip"
     },
     {
@@ -59,10 +59,10 @@
       "format": "zip",
       "altFile": "",
       "altFormat": "",
-      "sha256": "e7e8d2ca395e75f0f5fddf08646340d6e65e547e616358ed308bf2b61a571aa3",
+      "sha256": "b61e15c05a3a1194e2a1390bc1b14d348d7764eaaac4c2cd5fe8935ef16a7704",
       "version": 1,
       "count": 406,
-      "bytes": 103530,
+      "bytes": 103493,
       "remotePath": "HNC.zip"
     },
     {
@@ -74,10 +74,10 @@
       "format": "zip",
       "altFile": "",
       "altFormat": "",
-      "sha256": "435c4f784e98b3a3a5842500f0be71b64fdda1dab50abc6f1b15cd0ab4e150b9",
+      "sha256": "658c2a11de8b916de8213bf1f68c7ee4d925cbfb607de3cb01273a0c03df8079",
       "version": 1,
       "count": 613,
-      "bytes": 140415,
+      "bytes": 140379,
       "remotePath": "HCC.zip"
     }
   ]
