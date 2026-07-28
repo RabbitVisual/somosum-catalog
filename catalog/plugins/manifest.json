@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-28T18:29:14.692Z",
+  "generatedAt": "2026-07-28T18:31:16.806Z",
   "hostVersion": "8.7.8",
   "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.8",
-  "remoteCatalogUrl": "https://raw.githubusercontent.com/RabbitVisual/somosum-catalog/main/catalog/plugins/manifest.json",
+  "remoteCatalogUrl": "https://cdn.jsdelivr.net/gh/RabbitVisual/somosum-catalog@main/catalog/plugins/manifest.json",
   "plugins": [
     {
       "id": "culto-essencial",
@@ -59,7 +59,7 @@
       "id": "culto-oferta-pix",
       "name": "Oferta PIX",
       "tagline": "PIX e ofertas no projetor",
-      "description": "Plugin Studio: PIX, templates de oferta/dízimo, QR discreto e prévia no projetor",
+      "description": "Plugin Studio: PIX, templates de oferta/dízimo, QR discreto e prévia no projetor.",
       "longDescription": "Templates de oferta e dízimo, QR PIX configurável e prévia no projetor sem sair do Console.",
       "howTo": "Configure chave PIX e templates no Studio. Projete slides de oferta com QR discreto.",
       "changelog": "2.2.0 — Templates PIX e integração slide:render.",
@@ -106,7 +106,7 @@
       "id": "culto-momentos",
       "name": "Momentos do culto",
       "tagline": "Momentos rápidos ao vivo",
-      "description": "Plugin Studio: momentos rápidos com prévia e projeção",
+      "description": "Plugin Studio: momentos rápidos com prévia e projeção (Oração, Louvor, Oferta/PIX, etc.)",
       "longDescription": "Cadastre momentos do culto (oração, louvor, aviso) e projete com prévia e atalhos Remote.",
       "howTo": "Abra o Studio, cadastre momentos e projete com um clique no Remote.",
       "changelog": "2.2.0 — Stage layout e Remote actions.",
