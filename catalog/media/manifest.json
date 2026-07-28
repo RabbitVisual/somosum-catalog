@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-28T15:27:33.436Z",
+  "totalItems": 63,
+  "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.8",
+  "remoteCatalogUrl": "https://raw.githubusercontent.com/RabbitVisual/somosum-catalog/main/catalog/media/manifest.json",
+  "packs": [
+    {
+      "id": "media-pack-1",
+      "sigla": "P1",
+      "name": "Fundos pack 1 — essenciais",
+      "description": "Imagens estáticas + animados 01–18",
+      "file": "media-pack-1.zip",
+      "format": "zip",
+      "version": 1,
+      "count": 26,
+      "bytes": 30266619,
+      "sha256": "c4e0241575eadb25a3f13aca8e8d0b7b3395b3febdae9430b502037ad6a350bc",
+      "remotePath": "media/media-pack-1.zip"
+    },
+    {
+      "id": "media-pack-2",
+      "sigla": "P2",
+      "name": "Fundos pack 2",
+      "description": "Animados 19–36",
+      "file": "media-pack-2.zip",
+      "format": "zip",
+      "version": 1,
+      "count": 18,
+      "bytes": 46657209,
+      "sha256": "f35373b23139fdfd96d6471e8879f3b78851c1776f184c188bba275aaaca2a7c",
+      "remotePath": "media/media-pack-2.zip"
+    },
+    {
+      "id": "media-pack-3",
+      "sigla": "P3",
+      "name": "Fundos pack 3",
+      "description": "Animados 37–55",
+      "file": "media-pack-3.zip",
+      "format": "zip",
+      "version": 1,
+      "count": 19,
+      "bytes": 24678178,
+      "sha256": "8bdfe857d416ef05c95a980a09dbb5a2323f34e05474e1fe08a918cbdff7f2f2",
+      "remotePath": "media/media-pack-3.zip"
+    }
+  ]
+}
