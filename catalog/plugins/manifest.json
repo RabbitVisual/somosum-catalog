@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-28T18:31:16.806Z",
+  "generatedAt": "2026-07-28T19:07:24.780Z",
   "hostVersion": "8.7.8",
   "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.8",
   "remoteCatalogUrl": "https://cdn.jsdelivr.net/gh/RabbitVisual/somosum-catalog@main/catalog/plugins/manifest.json",
@@ -50,8 +50,8 @@
       "file": "culto-essencial.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 4498,
-      "sha256": "87d456de3901116022ebb2d89a1ebc6b519972d11d9c56fd4da2d3b02a062c3d",
+      "bytes": 4334,
+      "sha256": "9134d5aba6b4a9c5c286dbaa7ce39ecab9bb75190ec35fedea9c7be9d6b02c9d",
       "remotePath": "culto-essencial.zip",
       "defaultEnabled": true
     },
@@ -97,8 +97,8 @@
       "file": "culto-oferta-pix.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 7644,
-      "sha256": "9c19a2cdb4c55def6633e9da39d87b56f4539d9e56045fc1be5a8f5a71e5a9ff",
+      "bytes": 7278,
+      "sha256": "2b5921f6a177916c8e73ac090db7b303915ceba24f9c64048102dc3858353d33",
       "remotePath": "culto-oferta-pix.zip",
       "defaultEnabled": true
     },
@@ -186,8 +186,8 @@
       "file": "culto-diario.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 11248,
-      "sha256": "2be752e7ea8013ad10cd942f1e92cdb162120b8c8acac4b307ac3df57d9a64a5",
+      "bytes": 3338,
+      "sha256": "9a9ddcad8b368e777612b3a777e0144ffc58792a969bf0d6532e4fcacf5bc044",
       "remotePath": "culto-diario.zip",
       "defaultEnabled": true
     },
@@ -278,8 +278,8 @@
       "file": "culto-timer-sermao.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 2491,
-      "sha256": "c4dc1b3a699f8dbd88a751b632e45fce3d787592a05454fd2937471077be60ac",
+      "bytes": 2358,
+      "sha256": "e46d63de15dc8326c9bff80e203db90faf15c00bc361d4d864c1109404733b19",
       "remotePath": "culto-timer-sermao.zip",
       "defaultEnabled": true
     },
