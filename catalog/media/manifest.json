@@ -2,8 +2,8 @@
   "version": 1,
   "generatedAt": "2026-07-28T15:27:33.436Z",
   "totalItems": 63,
-  "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.8",
-  "remoteCatalogUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.8/media-manifest.json",
+  "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.10",
+  "remoteCatalogUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.10/media-manifest.json",
   "packs": [
     {
       "id": "media-pack-1",

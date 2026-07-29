@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-28T19:15:32.687Z",
-  "hostVersion": "8.7.8",
-  "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.8",
-  "remoteCatalogUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.8/plugins-manifest.json",
+  "generatedAt": "2026-07-29T09:59:58.111Z",
+  "hostVersion": "8.7.10",
+  "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.10",
+  "remoteCatalogUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.10/plugins-manifest.json",
   "plugins": [
     {
       "id": "culto-essencial",
-      "name": "Culto Essencial",
+      "name": "Checklist e carimbo da igreja",
       "tagline": "Checklist e carimbo da igreja",
-      "description": "Plugin Studio: carimbo da igreja, checklist pré-culto e prévia",
+      "description": "",
       "longDescription": "Organize o culto com checklist pré-culto, carimbo da igreja nos slides e prévia 16:9 integrada ao fluxo ao vivo.",
       "howTo": "Ative o plugin e abra o Studio na sidebar. Configure o carimbo e o checklist pré-culto.",
       "changelog": "2.2.0 — Plugin Studio, slide:render, Remote e Stage.",
       "version": "2.2.0",
-      "minHostVersion": "8.7.8",
+      "minHostVersion": "8.7.10",
       "api": 2,
       "author": "SOMOSUM",
       "publisher": "SOMOSUM",
@@ -26,45 +26,45 @@
       ],
       "hooks": [
         "activate",
-        "deactivate",
-        "slide:render"
+        "deactivate"
       ],
-      "capabilities": [
-        "host.control",
-        "ui.settings",
-        "ui.nav",
-        "ui.view",
-        "prefs",
-        "bus.command",
-        "slide.mutate",
-        "remote.action",
-        "ui.toolbar",
-        "stage.layout",
-        "command.palette"
-      ],
+      "capabilities": [],
       "icon": "assets/icon.png",
       "banner": "assets/banner.webp",
       "screenshots": [],
       "featured": true,
+      "listed": true,
       "sortOrder": 1,
       "file": "culto-essencial.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 4290,
-      "sha256": "6d96c37c79dc458a88104f4546236ac2f7ba8ecbdd0ad6405e3269cd2c840629",
+      "bytes": 5523,
+      "sha256": "8de432a0e79d1c3a1749de9c7add8d4d5d1a2d87561969e6a3c32a368e604204",
       "remotePath": "culto-essencial.zip",
-      "defaultEnabled": true
+      "defaultEnabled": true,
+      "pricing": {
+        "model": "free",
+        "priceDisplay": "Grátis",
+        "futurePriceDisplay": "",
+        "comingSoonPaid": false,
+        "currency": "BRL"
+      },
+      "license": {
+        "sku": "",
+        "tier": "standard",
+        "plan": "free"
+      }
     },
     {
       "id": "culto-oferta-pix",
-      "name": "Oferta PIX",
+      "name": "PIX e ofertas no projetor",
       "tagline": "PIX e ofertas no projetor",
-      "description": "Plugin Studio: PIX, templates de oferta/dízimo, QR discreto e prévia no projetor.",
+      "description": "",
       "longDescription": "Templates de oferta e dízimo, QR PIX configurável e prévia no projetor sem sair do Console.",
       "howTo": "Configure chave PIX e templates no Studio. Projete slides de oferta com QR discreto.",
       "changelog": "2.2.0 — Templates PIX e integração slide:render.",
       "version": "2.2.0",
-      "minHostVersion": "8.7.8",
+      "minHostVersion": "8.7.10",
       "api": 2,
       "author": "SOMOSUM",
       "publisher": "SOMOSUM",
@@ -76,31 +76,34 @@
       ],
       "hooks": [
         "activate",
-        "deactivate",
-        "slide:render"
+        "deactivate"
       ],
-      "capabilities": [
-        "host.control",
-        "ui.settings",
-        "ui.nav",
-        "ui.view",
-        "prefs",
-        "bus.command",
-        "slide.mutate",
-        "remote.action"
-      ],
+      "capabilities": [],
       "icon": "assets/icon.png",
       "banner": "assets/banner.webp",
       "screenshots": [],
       "featured": true,
+      "listed": true,
       "sortOrder": 2,
       "file": "culto-oferta-pix.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 7272,
-      "sha256": "c79c1216b3b19def2c6458f9391ba0af14ca3a5df5738dfe44d8e8cb913890d3",
+      "bytes": 8555,
+      "sha256": "cc9a39d5d0c5c262156e9bd66d3a1daac4a63150d359a3ba1766c6cc28494350",
       "remotePath": "culto-oferta-pix.zip",
-      "defaultEnabled": true
+      "defaultEnabled": true,
+      "pricing": {
+        "model": "free",
+        "priceDisplay": "Grátis",
+        "futurePriceDisplay": "",
+        "comingSoonPaid": false,
+        "currency": "BRL"
+      },
+      "license": {
+        "sku": "",
+        "tier": "standard",
+        "plan": "free"
+      }
     },
     {
       "id": "culto-momentos",
@@ -111,7 +114,7 @@
       "howTo": "Abra o Studio, cadastre momentos e projete com um clique no Remote.",
       "changelog": "2.2.0 — Stage layout e Remote actions.",
       "version": "2.2.0",
-      "minHostVersion": "8.7.8",
+      "minHostVersion": "8.7.10",
       "api": 2,
       "author": "SOMOSUM",
       "publisher": "SOMOSUM",
@@ -137,25 +140,38 @@
       "banner": "assets/banner.webp",
       "screenshots": [],
       "featured": true,
+      "listed": true,
       "sortOrder": 3,
       "file": "culto-momentos.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 2788,
-      "sha256": "26d5d2ce499db05d2036ba9693b78164dd0792f692ed341ff3a537b7d4f52a27",
+      "bytes": 4099,
+      "sha256": "8415f401fbde534ee60de05174097b64769fa1dbc5f958ac10e112be807a9e6b",
       "remotePath": "culto-momentos.zip",
-      "defaultEnabled": true
+      "defaultEnabled": true,
+      "pricing": {
+        "model": "free",
+        "priceDisplay": "Grátis",
+        "futurePriceDisplay": "",
+        "comingSoonPaid": false,
+        "currency": "BRL"
+      },
+      "license": {
+        "sku": "",
+        "tier": "standard",
+        "plan": "free"
+      }
     },
     {
       "id": "culto-diario",
-      "name": "Diário do culto",
+      "name": "Log do que foi projetado",
       "tagline": "Log do que foi projetado",
-      "description": "Plugin Studio: log do que foi projetado com exportação JSON",
+      "description": "",
       "longDescription": "Histórico do culto projetado com exportação JSON para arquivo ou relatório.",
       "howTo": "O diário registra automaticamente. Exporte JSON pelo Studio.",
       "changelog": "2.2.0 — Export JSON e slide tracking.",
       "version": "2.2.0",
-      "minHostVersion": "8.7.8",
+      "minHostVersion": "8.7.10",
       "api": 2,
       "author": "SOMOSUM",
       "publisher": "SOMOSUM",
@@ -166,30 +182,34 @@
       ],
       "hooks": [
         "activate",
-        "deactivate",
-        "slide:render"
+        "deactivate"
       ],
-      "capabilities": [
-        "ui.settings",
-        "ui.nav",
-        "ui.view",
-        "prefs",
-        "bus.command",
-        "remote.action",
-        "slide.mutate"
-      ],
+      "capabilities": [],
       "icon": "assets/icon.png",
       "banner": "assets/banner.webp",
       "screenshots": [],
       "featured": false,
+      "listed": true,
       "sortOrder": 4,
       "file": "culto-diario.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 3350,
-      "sha256": "b9aa76ff62b17bc2879b70fb484b23a11c48436ce41756acb4cae52b3ba8f431",
+      "bytes": 11276,
+      "sha256": "a95796cc212d468ddd9deea673e708be3ade188df260391cd02219d15ef56be1",
       "remotePath": "culto-diario.zip",
-      "defaultEnabled": true
+      "defaultEnabled": true,
+      "pricing": {
+        "model": "free",
+        "priceDisplay": "Grátis",
+        "futurePriceDisplay": "",
+        "comingSoonPaid": false,
+        "currency": "BRL"
+      },
+      "license": {
+        "sku": "",
+        "tier": "standard",
+        "plan": "free"
+      }
     },
     {
       "id": "culto-avisos-rodape",
@@ -200,7 +220,7 @@
       "howTo": "Cadastre avisos no Studio e ative a rotação no rodapé da projeção.",
       "changelog": "2.2.0 — slide:render para rodapé.",
       "version": "2.2.0",
-      "minHostVersion": "8.7.8",
+      "minHostVersion": "8.7.10",
       "api": 2,
       "author": "SOMOSUM",
       "publisher": "SOMOSUM",
@@ -228,14 +248,27 @@
       "banner": "assets/banner.webp",
       "screenshots": [],
       "featured": false,
+      "listed": true,
       "sortOrder": 5,
       "file": "culto-avisos-rodape.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 2870,
-      "sha256": "6c3d4568a7bfee27f413169a3b4d8647729d02c41bc5f83d3742bd3b36657f1d",
+      "bytes": 4061,
+      "sha256": "c14828bbed29cbf975393de651958b2427063feb6597c7b8c4646adcb5f84b0a",
       "remotePath": "culto-avisos-rodape.zip",
-      "defaultEnabled": true
+      "defaultEnabled": true,
+      "pricing": {
+        "model": "free",
+        "priceDisplay": "Grátis",
+        "futurePriceDisplay": "",
+        "comingSoonPaid": false,
+        "currency": "BRL"
+      },
+      "license": {
+        "sku": "",
+        "tier": "standard",
+        "plan": "free"
+      }
     },
     {
       "id": "culto-timer-sermao",
@@ -246,7 +279,7 @@
       "howTo": "Use o Studio para definir tempo alvo. O timer aparece no Púlpito (Stage), não no projetor.",
       "changelog": "2.2.0 — Stage layout exclusivo.",
       "version": "2.2.0",
-      "minHostVersion": "8.7.8",
+      "minHostVersion": "8.7.10",
       "api": 2,
       "author": "SOMOSUM",
       "publisher": "SOMOSUM",
@@ -274,14 +307,27 @@
       "banner": "assets/banner.webp",
       "screenshots": [],
       "featured": false,
+      "listed": true,
       "sortOrder": 6,
       "file": "culto-timer-sermao.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 2357,
-      "sha256": "e4fa71e641285ebd5d42dd3e1b1bd7e07c76aa063af9acc408dca70221c516ff",
+      "bytes": 3206,
+      "sha256": "870ad57a74370af728c1ae5da3575ad5ca649c999ba94338ee6f266742d90296",
       "remotePath": "culto-timer-sermao.zip",
-      "defaultEnabled": true
+      "defaultEnabled": true,
+      "pricing": {
+        "model": "free",
+        "priceDisplay": "Grátis",
+        "futurePriceDisplay": "",
+        "comingSoonPaid": false,
+        "currency": "BRL"
+      },
+      "license": {
+        "sku": "",
+        "tier": "standard",
+        "plan": "free"
+      }
     },
     {
       "id": "culto-versiculo-destaque",
@@ -292,7 +338,7 @@
       "howTo": "Defina o versículo no Studio e use nas Boas-vindas.",
       "changelog": "2.2.0 — Integração Boas-vindas.",
       "version": "2.2.0",
-      "minHostVersion": "8.7.8",
+      "minHostVersion": "8.7.10",
       "api": 2,
       "author": "SOMOSUM",
       "publisher": "SOMOSUM",
@@ -320,14 +366,27 @@
       "banner": "assets/banner.webp",
       "screenshots": [],
       "featured": false,
+      "listed": true,
       "sortOrder": 7,
       "file": "culto-versiculo-destaque.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 2717,
-      "sha256": "9431f45848ab06a0247570a0dc555f03d66111202120ccb3de97cea33e1887bd",
+      "bytes": 3955,
+      "sha256": "ac552344bda03c7e66ab18bb013625b0eb3baa7c41ce74a32bd2589ff2c085bd",
       "remotePath": "culto-versiculo-destaque.zip",
-      "defaultEnabled": true
+      "defaultEnabled": true,
+      "pricing": {
+        "model": "free",
+        "priceDisplay": "Grátis",
+        "futurePriceDisplay": "",
+        "comingSoonPaid": false,
+        "currency": "BRL"
+      },
+      "license": {
+        "sku": "",
+        "tier": "standard",
+        "plan": "free"
+      }
     },
     {
       "id": "culto-alerta-equipe",
@@ -338,7 +397,7 @@
       "howTo": "Configure alertas no Studio. Preset Oferta pode abrir slide PIX se instalado.",
       "changelog": "2.2.0 — Remote actions e preset Oferta.",
       "version": "2.2.0",
-      "minHostVersion": "8.7.8",
+      "minHostVersion": "8.7.10",
       "api": 2,
       "author": "SOMOSUM",
       "publisher": "SOMOSUM",
@@ -363,14 +422,320 @@
       "banner": "assets/banner.webp",
       "screenshots": [],
       "featured": false,
+      "listed": true,
       "sortOrder": 8,
       "file": "culto-alerta-equipe.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 2731,
-      "sha256": "7152212db46653377baad16fc07ccd93d1582ce67d06e058cf3c54ae70fa84b5",
+      "bytes": 3495,
+      "sha256": "caf7970b0fe0e3e050016a2c67c694ff10a5896241d9375af6bbd25724cd484e",
       "remotePath": "culto-alerta-equipe.zip",
-      "defaultEnabled": true
+      "defaultEnabled": true,
+      "pricing": {
+        "model": "free",
+        "priceDisplay": "Grátis",
+        "futurePriceDisplay": "",
+        "comingSoonPaid": false,
+        "currency": "BRL"
+      },
+      "license": {
+        "sku": "",
+        "tier": "standard",
+        "plan": "free"
+      }
+    },
+    {
+      "id": "culto-hino-rapido",
+      "name": "Hino por número",
+      "tagline": "Hinário por número",
+      "description": "Busca rápida de hinário por número e projeção",
+      "longDescription": "Teclado numérico e busca por hinário para projetar o hino em segundos.",
+      "howTo": "Digite a sigla e o número (CC 15, HC 100…) e projete. Usa a biblioteca local.",
+      "changelog": "1.0.0 — Busca por número e projeção.",
+      "version": "1.0.0",
+      "minHostVersion": "8.7.10",
+      "api": 2,
+      "author": "SOMOSUM",
+      "publisher": "SOMOSUM",
+      "category": "culto",
+      "tags": [
+        "hinário",
+        "número",
+        "louvor"
+      ],
+      "hooks": [
+        "activate",
+        "deactivate"
+      ],
+      "capabilities": [
+        "host.control",
+        "ui.settings",
+        "ui.nav",
+        "ui.view",
+        "prefs",
+        "bus.command",
+        "remote.action",
+        "command.palette"
+      ],
+      "icon": "assets/icon.png",
+      "banner": "assets/banner.webp",
+      "screenshots": [],
+      "featured": true,
+      "listed": true,
+      "sortOrder": 9,
+      "file": "culto-hino-rapido.zip",
+      "format": "zip",
+      "packVersion": 1,
+      "bytes": 3412,
+      "sha256": "96a7d07efe81d8c87c9b6eeebaf77ca6ccd6aec086ebfd2909373e697b18841d",
+      "remotePath": "culto-hino-rapido.zip",
+      "defaultEnabled": true,
+      "pricing": {
+        "model": "free",
+        "priceDisplay": "Grátis",
+        "futurePriceDisplay": "R$ 39,90",
+        "comingSoonPaid": true,
+        "currency": "BRL"
+      },
+      "license": {
+        "sku": "plugin.culto-hino-rapido",
+        "tier": "premium",
+        "plan": "free"
+      }
+    },
+    {
+      "id": "culto-aniversariantes",
+      "name": "Aniversariantes",
+      "tagline": "Parabéns no projetor",
+      "description": "Lista de aniversariantes e projeção de parabéns no culto",
+      "longDescription": "Lista de aniversariantes da igreja com filtro por dia/semana e slide de parabéns no projetor.",
+      "howTo": "Cadastre nomes e datas (MM-DD). Projete aniversariantes de hoje ou da semana pelo Studio ou Remote.",
+      "changelog": "1.0.0 — Lista, filtros e projeção.",
+      "version": "1.0.0",
+      "minHostVersion": "8.7.10",
+      "api": 2,
+      "author": "SOMOSUM",
+      "publisher": "SOMOSUM",
+      "category": "culto",
+      "tags": [
+        "aniversário",
+        "congragação"
+      ],
+      "hooks": [
+        "activate",
+        "deactivate"
+      ],
+      "capabilities": [
+        "host.control",
+        "ui.settings",
+        "ui.nav",
+        "ui.view",
+        "prefs",
+        "bus.command",
+        "remote.action",
+        "command.palette"
+      ],
+      "icon": "assets/icon.png",
+      "banner": "assets/banner.webp",
+      "screenshots": [],
+      "featured": true,
+      "listed": true,
+      "sortOrder": 10,
+      "file": "culto-aniversariantes.zip",
+      "format": "zip",
+      "packVersion": 1,
+      "bytes": 3492,
+      "sha256": "8b98e4386f031007b7c759305a455b426b68285ee4d716ec46d1cbc025b07235",
+      "remotePath": "culto-aniversariantes.zip",
+      "defaultEnabled": true,
+      "pricing": {
+        "model": "free",
+        "priceDisplay": "Grátis",
+        "futurePriceDisplay": "R$ 29,90",
+        "comingSoonPaid": true,
+        "currency": "BRL"
+      },
+      "license": {
+        "sku": "plugin.culto-aniversariantes",
+        "tier": "premium",
+        "plan": "free"
+      }
+    },
+    {
+      "id": "culto-agenda-projetor",
+      "name": "Agenda no projetor",
+      "tagline": "Próximos eventos na tela",
+      "description": "Próximos eventos da igreja no projetor",
+      "longDescription": "Agenda da igreja no projetor — cultos, ensaios e eventos com data e local.",
+      "howTo": "Cadastre eventos com data/hora/local e projete a agenda no culto.",
+      "changelog": "1.0.0 — Agenda e projeção.",
+      "version": "1.0.0",
+      "minHostVersion": "8.7.10",
+      "api": 2,
+      "author": "SOMOSUM",
+      "publisher": "SOMOSUM",
+      "category": "culto",
+      "tags": [
+        "agenda",
+        "eventos"
+      ],
+      "hooks": [
+        "activate",
+        "deactivate"
+      ],
+      "capabilities": [
+        "host.control",
+        "ui.settings",
+        "ui.nav",
+        "ui.view",
+        "prefs",
+        "bus.command",
+        "remote.action",
+        "command.palette"
+      ],
+      "icon": "assets/icon.png",
+      "banner": "assets/banner.webp",
+      "screenshots": [],
+      "featured": true,
+      "listed": true,
+      "sortOrder": 11,
+      "file": "culto-agenda-projetor.zip",
+      "format": "zip",
+      "packVersion": 1,
+      "bytes": 3125,
+      "sha256": "bae3e1b4ed6d4e86a16e642eb78f815535c8d3d7e52b70cf7e9d2dbb8eb13f55",
+      "remotePath": "culto-agenda-projetor.zip",
+      "defaultEnabled": true,
+      "pricing": {
+        "model": "free",
+        "priceDisplay": "Grátis",
+        "futurePriceDisplay": "R$ 29,90",
+        "comingSoonPaid": true,
+        "currency": "BRL"
+      },
+      "license": {
+        "sku": "plugin.culto-agenda-projetor",
+        "tier": "premium",
+        "plan": "free"
+      }
+    },
+    {
+      "id": "culto-pedidos-oracao",
+      "name": "Pedidos de oração",
+      "tagline": "Fila de pedidos no culto",
+      "description": "Fila de pedidos de oração com moderação e projeção",
+      "longDescription": "Fila de pedidos de oração com moderação e projeção respeitosa na tela.",
+      "howTo": "Receba pedidos pelo Remote, aprove no Studio e projete com cuidado.",
+      "changelog": "1.0.0 — Fila, Remote e projeção.",
+      "version": "1.0.0",
+      "minHostVersion": "8.7.10",
+      "api": 2,
+      "author": "SOMOSUM",
+      "publisher": "SOMOSUM",
+      "category": "equipe",
+      "tags": [
+        "oração",
+        "pedidos",
+        "remote"
+      ],
+      "hooks": [
+        "activate",
+        "deactivate"
+      ],
+      "capabilities": [
+        "host.control",
+        "ui.settings",
+        "ui.nav",
+        "ui.view",
+        "prefs",
+        "bus.command",
+        "remote.action",
+        "command.palette"
+      ],
+      "icon": "assets/icon.png",
+      "banner": "assets/banner.webp",
+      "screenshots": [],
+      "featured": true,
+      "listed": true,
+      "sortOrder": 12,
+      "file": "culto-pedidos-oracao.zip",
+      "format": "zip",
+      "packVersion": 1,
+      "bytes": 3255,
+      "sha256": "82e631af080bc04d0e7a995b244c2ce1a5369b45d08d1bb95adb1382b569118e",
+      "remotePath": "culto-pedidos-oracao.zip",
+      "defaultEnabled": true,
+      "pricing": {
+        "model": "free",
+        "priceDisplay": "Grátis",
+        "futurePriceDisplay": "R$ 29,90",
+        "comingSoonPaid": true,
+        "currency": "BRL"
+      },
+      "license": {
+        "sku": "plugin.culto-pedidos-oracao",
+        "tier": "premium",
+        "plan": "free"
+      }
+    },
+    {
+      "id": "culto-qr-livre",
+      "name": "QR Code do culto",
+      "tagline": "QR Code para qualquer link",
+      "description": "QR Code livre para links do culto (não substitui PIX)",
+      "longDescription": "QR Code livre para momentos do culto — inscrição, transmissão, grupos e sites.",
+      "howTo": "Cole o link (YouTube, inscrição, WhatsApp…) e projete o QR. Oferta PIX continua no plugin PIX.",
+      "changelog": "1.0.0 — QR livre com prévia e Remote.",
+      "version": "1.0.0",
+      "minHostVersion": "8.7.10",
+      "api": 2,
+      "author": "SOMOSUM",
+      "publisher": "SOMOSUM",
+      "category": "projeção",
+      "tags": [
+        "qr",
+        "link",
+        "inscrição"
+      ],
+      "hooks": [
+        "activate",
+        "deactivate"
+      ],
+      "capabilities": [
+        "host.control",
+        "ui.settings",
+        "ui.nav",
+        "ui.view",
+        "prefs",
+        "bus.command",
+        "remote.action",
+        "command.palette"
+      ],
+      "icon": "assets/icon.png",
+      "banner": "assets/banner.webp",
+      "screenshots": [],
+      "featured": true,
+      "listed": true,
+      "sortOrder": 13,
+      "file": "culto-qr-livre.zip",
+      "format": "zip",
+      "packVersion": 1,
+      "bytes": 2884,
+      "sha256": "da91178cfd9ac5e798f9850651fa32a7f88c3ef76e76fe7a9b5f5c2911a78528",
+      "remotePath": "culto-qr-livre.zip",
+      "defaultEnabled": true,
+      "pricing": {
+        "model": "free",
+        "priceDisplay": "Grátis",
+        "futurePriceDisplay": "R$ 19,90",
+        "comingSoonPaid": true,
+        "currency": "BRL"
+      },
+      "license": {
+        "sku": "plugin.culto-qr-livre",
+        "tier": "premium",
+        "plan": "free"
+      }
     }
   ]
 }
