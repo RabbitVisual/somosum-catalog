@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-29T09:59:58.111Z",
+  "generatedAt": "2026-07-29T10:23:49.250Z",
   "hostVersion": "8.7.10",
   "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.10",
   "remoteCatalogUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.10/plugins-manifest.json",
@@ -486,8 +486,8 @@
       "file": "culto-hino-rapido.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 3412,
-      "sha256": "96a7d07efe81d8c87c9b6eeebaf77ca6ccd6aec086ebfd2909373e697b18841d",
+      "bytes": 3684,
+      "sha256": "cbce259ff938a0fafd32d1fe43f471796e20e081096883eff1c10d42c204ce96",
       "remotePath": "culto-hino-rapido.zip",
       "defaultEnabled": true,
       "pricing": {
@@ -519,7 +519,7 @@
       "category": "culto",
       "tags": [
         "aniversário",
-        "congragação"
+        "congregação"
       ],
       "hooks": [
         "activate",
@@ -661,8 +661,8 @@
       "file": "culto-pedidos-oracao.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 3255,
-      "sha256": "82e631af080bc04d0e7a995b244c2ce1a5369b45d08d1bb95adb1382b569118e",
+      "bytes": 3294,
+      "sha256": "66a50b6e584230ab2b976be16c602ac28681181a032922122afb47c170e73145",
       "remotePath": "culto-pedidos-oracao.zip",
       "defaultEnabled": true,
       "pricing": {
@@ -720,8 +720,8 @@
       "file": "culto-qr-livre.zip",
       "format": "zip",
       "packVersion": 1,
-      "bytes": 2884,
-      "sha256": "da91178cfd9ac5e798f9850651fa32a7f88c3ef76e76fe7a9b5f5c2911a78528",
+      "bytes": 2897,
+      "sha256": "a5a5c60dd57a66664d557d1ab5841878a30de819f8ee12e9746b254190f3edbc",
       "remotePath": "culto-qr-livre.zip",
       "defaultEnabled": true,
       "pricing": {
