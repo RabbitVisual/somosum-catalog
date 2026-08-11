@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-29T21:31:20.408Z",
+  "generatedAt": "2026-08-11T23:52:43.770Z",
   "totalSongs": 2743,
-  "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.12",
-  "remoteCatalogUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.7.12/hinarios-manifest.json",
+  "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.8.5",
+  "remoteCatalogUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.8.5/hinarios-manifest.json",
   "packs": [
     {
       "id": "cc",
