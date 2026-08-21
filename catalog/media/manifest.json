@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-20T21:57:04.820Z",
+  "generatedAt": "2026-08-21T02:00:38.322Z",
   "totalItems": 63,
-  "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.8.17",
-  "remoteCatalogUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.8.17/media-manifest.json",
+  "cdnBaseUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.8.18",
+  "remoteCatalogUrl": "https://github.com/RabbitVisual/somosum-catalog/releases/download/packs-8.8.18/media-manifest.json",
   "packs": [
     {
       "id": "media-pack-1",
@@ -15,7 +15,7 @@
       "version": 1,
       "count": 26,
       "bytes": 30269123,
-      "sha256": "659ca62b89f35b53c3954cbe0e3431d5c5a25817e6c984558ea0b7502409d345",
+      "sha256": "9123484e1ee68ea370f6d39313f591f53cd6f9a485c52f0789229fb95103af6e",
       "remotePath": "media-pack-1.zip"
     },
     {
@@ -28,7 +28,7 @@
       "version": 1,
       "count": 18,
       "bytes": 46659214,
-      "sha256": "c175f3245826c9d31dfe23c6a7351cd5bafa736df9672ec7b757cd680c318a77",
+      "sha256": "68fad8562a118612b7030d8a7388843877bdca66c755b4f192ce9f95fdc25c3c",
       "remotePath": "media-pack-2.zip"
     },
     {
@@ -41,7 +41,7 @@
       "version": 1,
       "count": 19,
       "bytes": 24680602,
-      "sha256": "378437be1f40a3ebb8bc7744527e3c231ae9e0586097258a728d9da9f1175246",
+      "sha256": "b693fe5ffdb51b3950544c21a69e5e420a44742f0a34a37fd8935b70de5a2890",
       "remotePath": "media-pack-3.zip"
     }
   ]
